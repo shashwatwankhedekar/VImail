@@ -1,4 +1,4 @@
-#VI-Mail - Visually Impaired's Mail
+# VI-Mail - Visually Impaired's Mail
 
 
 ## 🎞 Video demonstration
