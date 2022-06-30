@@ -1,5 +1,5 @@
 #VI-Mail - Visually Impaired's Mail
-![image](https://user-images.githubusercontent.com/88282261/163553372-908f9ffe-f164-439a-a18a-1595a2c24ba3.png)
+
 
 ## 🎞 Video demonstration
 //
