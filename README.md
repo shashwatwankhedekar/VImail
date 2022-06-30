@@ -16,8 +16,9 @@ Keywords— Text to speech converter, Speech to text converter,email service for
 - Google Speech-To-Text and Text-To-Speech APIs
 - HTML/CSS
 
-### ⚙ Working
-Basically our WebApp will use google Text-To-Speech APIs which will be connected to our frontend. Whenever the person clicks on any of the command whether it be any mail, the person will get to know using Google Speech APi.
+### ⚙ WorkingThrough this Web Application the
+Vision Impaired user can get a speech synthesized outputof the mails in his inbox or can view his email using themagnifier option available. To compose emails he can give a input to the system by using the Braille keyboard.
+Text to speech synthesizer which converts the text format of the emails to synthesized speech. Predicting the correct intonation (how the pitch pattern or fundamental frequency changes during speech), stress and duration from the plain text is a challenging task.
 
 ### 🔑 KEY FEATURES OF THE APP
 1) User friendly ( as a blind person can easily use web based application )
