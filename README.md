@@ -17,7 +17,7 @@ Keywords— Text to speech converter, Speech to text converter,email service for
 - HTML/CSS
 
 ### ⚙ Working
-//
+Basically our WebApp will use google Text-To-Speech APIs which will be connected to our frontend. Whenever the person clicks on any of the command whether it be any mail, the person will get to know using Google Speech APi.
 
 ### 🔑 KEY FEATURES OF THE APP
 - //
