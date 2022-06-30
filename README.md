@@ -20,7 +20,11 @@ Keywords— Text to speech converter, Speech to text converter,email service for
 Basically our WebApp will use google Text-To-Speech APIs which will be connected to our frontend. Whenever the person clicks on any of the command whether it be any mail, the person will get to know using Google Speech APi.
 
 ### 🔑 KEY FEATURES OF THE APP
-- //
+1) User friendly ( as a blind person can easily use web based application )
+2) Easy storage of data
+3) More efficient
+4) Requires less effort and time
+5) The system that we are developing is entirely different from the existing ones.Unlike other systems which focus only on a particular set of people our system is focussed mainly on visually challenged people .
 
 ### 🌈 CONCLUSION
 This Web based application which will help the visually impaired people to access the email services easily and efficiently. This system will help in overcoming certain issues that the visually impaired people had to face earlier in using email systems. Also we have completely eliminated the concept of using keyboard shortcuts and also the use of screen readers which may help in reducing the stress load of remembering the location of the keys on the keyboard and so that user can use this system efficiently. The user is only supposed to follow the instructions which will be given by Google speech technology.
